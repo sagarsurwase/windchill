@@ -44,7 +44,7 @@ public class TeamCenterToWindchill implements RemoteAccess {
 	}
 
 	public static void createPartFromXml() throws WTException {
-		System.out.println("Inside the createPartFromXml");
+		System.out.println("Inside the createPartFromXml>>>>>>>>>>>>>>");
 
 		Map numberName = readXML();
 		
